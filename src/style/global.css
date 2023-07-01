@@ -1,0 +1,19 @@
+html>*{
+    margin:0;
+    padding: 0;
+}
+p,h3{
+    margin:0
+}
+
+body,section{
+    width: 100%;
+    font-family: "Poppins", "sans-serif";
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+section{
+    padding-bottom: 1rem;
+}

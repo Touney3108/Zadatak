@@ -1,0 +1,35 @@
+.age-limit{
+    height: calc(var(--widget-size) * 3);
+    border-radius:.7rem;
+    background-color: var(--color-green);
+    padding:0.25rem.5rem;
+    box-sizing: border-box;
+    text-align: center;
+}
+.age-limit-text{
+    text-transform: uppercase;
+    font-size: 70%;
+}
+
+@media only screen and (max-width:800px) {
+    .age-limit{
+        font-size:13px;
+        height: 42px;
+    }
+    
+}
+
+@media only screen and (max-width:550px) {
+    .age-limit{
+        height:34px;
+        padding:auto .5rem;
+        font-size:10px;
+    }
+}
+@media only screen and (max-width:440px) {
+    .age-limit{
+        height:26px;
+        padding:auto .5rem;
+        font-size:8px;
+    }
+}

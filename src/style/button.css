@@ -1,0 +1,21 @@
+.button{
+    font-size: var(--widget-size);
+    box-sizing: border-box;
+    color:var(--color-background);
+    border: none;
+    padding:1rem;
+    background-color: #fb373b;
+    border-radius: 1.5rem;
+    line-height: 1;
+    cursor: pointer;
+}
+@media only screen and (max-width:550px) {
+    .button{
+        padding: .75rem;
+    }
+}
+@media only screen and (max-width:440px) {
+    .button{
+        padding: .5rem;
+    }
+}

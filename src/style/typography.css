@@ -1,0 +1,22 @@
+.section-title{
+    width: 50%;
+    text-align: center;
+    margin: 0 auto 2rem auto;
+    font-size: 30px;
+}
+.center{
+    margin:0 auto;
+}
+@media only screen and (max-width:800px) {
+    .section-title{
+        width: 75%;
+        font-size: 26px;
+    }
+    
+}
+@media only screen and (max-width:660px) {
+    .section-title{
+        font-size: 22px;
+    }
+    
+}

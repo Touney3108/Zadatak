@@ -1,0 +1,12 @@
+:root{
+    --color-text-color:black;
+    --color-background:white;
+    --widget-size:16px;
+    --widget-size-sm:10px;
+}
+
+@media only screen and (max-width:800px) {
+    :root{
+        --widget-size:10px;
+    }
+}

@@ -1,0 +1,17 @@
+@import url(variables.css);
+@import url(global.css);
+@import url(layout.css);
+@import url(typography.css);
+@import url(card.css);
+@import url(button.css);
+@import url(age-limit-badge.css);
+@import url(spinner.css);
+@font-face {
+    font-family: "Poppins";
+    src: url(./fonts/Poppins-Medium.ttf);
+}
+
+
+
+
+
