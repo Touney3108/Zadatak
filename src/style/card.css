@@ -27,6 +27,7 @@
 }
 .card-price{
     font-size:24px;
+    text-align: start;
 }
 .card-price span{
     font-size:30px;
