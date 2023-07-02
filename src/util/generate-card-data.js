@@ -12,12 +12,12 @@ const imgs = [
         color:"#00BED6"
     },
     {
-        img: "https://cdn.shopify.com/s/files/1/0552/3269/2430/files/gift-stem-prod-img-min.jpg",
+        img: "https://cdn.shopify.com/s/files/1/0552/3269/2430/files/gift-bundle-rc-min.jpg",
         color:"#1045BA"
     },
     {
-        img: "https://i.shgcdn.com/cd0e490f-81c0-4d75-b590-668e49465069/-/format/auto/-/preview/3000x3000/-/quality/normal/",
-        color:"#F1592A"
+        img: "https://cdn.shopify.com/s/files/1/0552/3269/2430/files/gift-batmobile-1-min.jpg",
+        color:"#00BED"
     },
     {
         img: "https://cdn.shopify.com/s/files/1/0552/3269/2430/files/gift-gaming-bundle-min.jpg",

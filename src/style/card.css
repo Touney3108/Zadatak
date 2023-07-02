@@ -21,6 +21,9 @@
     flex-direction: column;
     justify-content: space-between;
 }
+.card-body{
+    height: 100%;
+}
 .card-title,.card-price{
     color: var(--color-green);
     font-size:30px;
