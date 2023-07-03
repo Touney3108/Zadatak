@@ -15,7 +15,7 @@ export const startingData = [
     },
     {
         image: "https://cdn.shopify.com/s/files/1/0552/3269/2430/files/gift-bundle-start-min.jpg",
-        title: "SNibble",
+        title: "Nibble",
         description: "Build & code your very own retro game console",
         price: 642.99,
         color:"#00BED6"

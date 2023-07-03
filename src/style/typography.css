@@ -11,12 +11,7 @@
     .section-title{
         width: 75%;
         font-size: 26px;
-    }
-    
-}
-@media only screen and (max-width:660px) {
-    .section-title{
-        font-size: 22px;
+        margin-bottom: .5rem;
     }
     
 }

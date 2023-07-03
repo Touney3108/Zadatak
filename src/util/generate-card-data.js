@@ -17,7 +17,7 @@ const imgs = [
     },
     {
         img: "https://cdn.shopify.com/s/files/1/0552/3269/2430/files/gift-batmobile-1-min.jpg",
-        color:"#00BED"
+        color:"#00BED6"
     },
     {
         img: "https://cdn.shopify.com/s/files/1/0552/3269/2430/files/gift-gaming-bundle-min.jpg",
