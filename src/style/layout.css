@@ -21,6 +21,5 @@
 @media only screen and (max-width:500px) {
     .grid{
         width: 80%;
-        grid-template-columns: 1fr;
     }
 }
